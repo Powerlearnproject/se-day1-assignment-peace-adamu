@@ -18,10 +18,16 @@ Milestones in the evolution of software enginnering:
 
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
-Phases of the software Development Life Cycle
-Phases of the Software Development Life Cycle:
+List and briefly explain the phases of the Software Development
+(a) Planning
+(b) Analysis 
+(c) Design
+(d) Implementation
+(e) Testing
+(f) Deployment 
+(g) Maintenance 
 
+Life Cycle.
 1. Planning:
 Defining project scope, requirements, and deliverables.
 Creating project plan and timelines.
